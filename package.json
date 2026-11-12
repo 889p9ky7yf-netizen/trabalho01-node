@@ -1,0 +1,13 @@
+
+{
+  "name": "trabalho01",
+  "version": "1.0.0",
+  "description": "Servidor Node.js com Express e Rotas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
